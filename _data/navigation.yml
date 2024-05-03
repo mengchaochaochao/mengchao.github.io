@@ -8,7 +8,7 @@ main:
     url: /tags/
   - title: "Pets"
     url: /pets/
-  - title: "portfolio"
-    url: /portfolio-archive/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Sitemap"
     url: /sitemap/
