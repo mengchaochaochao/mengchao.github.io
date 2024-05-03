@@ -62,35 +62,7 @@ print("Hello, world!")
 ~~删除线~~
 ==高亮==
 ```
-#其他
-```yaml
-# 注释
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
-```yaml
-{% include video id="iG9CE55wbtY" provider="youtube" %}
-```
-#其他
+
 如下注意
 **Note:** `search: false` only works to exclude posts when using **Lunr** as a search provider（注意选项）.
 {: .notice--info}
