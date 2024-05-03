@@ -30,19 +30,15 @@ layout: archive
 {% endfor %}
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha512-H4JGp9XfsP3XVYgOf3H6gz/AZPj8LokM4J7VQ94DjZi4Kl0F0eMs5O9xNX/Qv8A2nZ1H8A8iFb+9XZYgj6FJJg==" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+
 <script>
   MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
-      processEnvironments: true,
-      // 其他配置...
-    },
-    loader: {
-      load: ['[tex]/physics'] // 这里加载额外的宏包
+      processEnvironments: true
     }
-    // 其他配置...
   };
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
