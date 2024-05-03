@@ -7,7 +7,7 @@ categories:
 tags: 
   - markdown
 toc: true
-toc_label: "Getting Started"
+toc_label: "目录"
 ---
 
 # 标题
