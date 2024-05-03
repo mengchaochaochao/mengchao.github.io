@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: category
+layout: archive
 permalink: /portfolio/
 
 ---

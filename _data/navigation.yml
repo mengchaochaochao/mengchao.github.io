@@ -9,6 +9,6 @@ main:
   - title: "Pets"
     url: /pets/
   - title: "Portfolio"
-    url: /collections/
+    url: /portfolio/
   - title: "Sitemap"
     url: /sitemap/
