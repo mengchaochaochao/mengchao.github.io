@@ -8,9 +8,10 @@ main:
     url: /year-archive/
   - title: "Tags"
     url: /tags/
-  - title: # "Pets"
-    url: # /pets/
   - title: "Profile"
     url: /portfolio/
+  - title: # "Pets"
+    url: # /pets/
+
   - title: #"Sitemap"
     url: #/sitemap/
