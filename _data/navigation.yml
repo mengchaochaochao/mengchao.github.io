@@ -6,9 +6,9 @@ main:
     url: /year-archive/
   - title: "Tags"
     url: /tags/
-  - title: "Pets"
-    url: /pets/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: # "Pets"
+    url: # /pets/
+  - title: # "Portfolio"
+    url: #/portfolio/
+  - title: #"Sitemap"
+    url: #/sitemap/
