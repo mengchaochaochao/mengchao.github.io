@@ -1,14 +1,13 @@
 ---
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 title:  "Markdown语法"
+last_modified_at: 2024-05-19T08:16:34-17:00
 search: false
 categories: 
   - computer
 tags: 
   - markdown
-last_modified_at: 2024-05-19T08:16:34-17:00
+toc: true
+toc_label: "Getting Started"
 ---
 
 #标题
