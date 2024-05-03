@@ -2,7 +2,7 @@
 title:  "你好，这是第一篇blog"
 search: false
 categories: 
-  - Jekyll
+  - first-post
 last_modified_at: 2024-05-19T08:16:34-17:00
 ---
 
@@ -19,7 +19,7 @@ search: false
 双**可以加粗**   '可以缩小'
 To exclude files when using **Algolia** as a search provider add an array to `algolia.files_to_exclude' in your `_config.yml`. For more configuration options be sure to check their [full documentation](https://community.algolia.com/jekyll-algolia/options.html).
 
-'''python
+'''yaml
 print("Hello, world!")
 代码区域
 ```
