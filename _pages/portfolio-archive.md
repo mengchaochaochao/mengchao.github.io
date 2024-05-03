@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Profile
 layout: collection
 permalink: /portfolio/
 collection: portfolio
@@ -7,4 +7,44 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+---
+# 个人信息
+姓名: [你的名字]
+联系方式: [你的电话号码]
+邮箱: [你的电子邮箱]
+LinkedIn: [你的LinkedIn链接]
+GitHub: [你的GitHub链接]
+
+# 教育背景
+## 硕士学位
+- 学校名称: [你的硕士学校名称]
+- 专业: [你的硕士专业]
+- 学位类型: [你的学位类型]
+- 毕业时间: [你的毕业时间]
+
+## 学士学位
+- 学校名称: [你的本科学校名称]
+- 专业: [你的本科专业]
+- 学位类型: [你的学位类型]
+- 毕业时间: [你的毕业时间]
+
+# 工作经历
+## 公司名称
+- 职位名称: [你的职位名称]
+- 工作职责: [你的工作职责]
+- 工作时间: [你的工作时间]
+
+# 技能
+- 技能1: [你的技能1]
+- 技能2: [你的技能2]
+- 技能3: [你的技能3]
+
+# 证书
+- 证书1: [你的证书1]
+- 证书2: [你的证书2]
+- 证书3: [你的证书3]
+
+# 自我评价
+[你的自我评价]
+
+---
