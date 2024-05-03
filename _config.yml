@@ -124,7 +124,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://willsoncen.github.io"
     - label: "QQ"
-      icon: "fab fa-fw fa-QQ-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "Wechat"
       icon: "fab fa-fw fa-facebook-square"
@@ -132,9 +132,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/willsoncen"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
