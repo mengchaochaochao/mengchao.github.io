@@ -10,7 +10,7 @@ main:
     url: /tags/
   - title: # "Pets"
     url: # /pets/
-  - title: # "Portfolio"
-    url: #/portfolio/
+  - title: "Profile"
+    url: /portfolio/
   - title: #"Sitemap"
     url: #/sitemap/
