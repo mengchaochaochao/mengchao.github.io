@@ -1,7 +1,7 @@
 ---
 title: Portfolio
-layout: posts
-permalink: /year-archive/
+layout: category
+permalink: /portfolio/
 
 ---
 
