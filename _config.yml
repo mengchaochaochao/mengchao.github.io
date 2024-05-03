@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Wilson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Normal People."
   location         : "Dalian China"
   email            : "willsoncen@outlook.com"
