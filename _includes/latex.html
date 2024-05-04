@@ -1,16 +1,10 @@
 <script>
     MathJax = {
       tex: {
-        equationNumbers: {
-          autoNumber: "AMS"
-        }
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
       },
-      tex2jax: {
-        inlineMath: [ ['$','$'] ],
-        displayMath: [ ['$$','$$'] ],
-        processEscapes: true,
-        displayMath: true,
-        preview: "TeX" // Add this option
+      svg: {
+        fontCache: 'global'
       }
     };
   </script>
