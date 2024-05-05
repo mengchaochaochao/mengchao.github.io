@@ -13,30 +13,30 @@ toc_label: "目录"
 ### Sinusoidal Energy Model
 
 #### Vehicle Characteristics
-$L$: Vehicle length
-$W$: Vehicle weight
-$V$: Vehicle speed
-$SD$: Safety distance
+$L$: Vehicle length<br>
+$W$: Vehicle weight<br>
+$V$: Vehicle speed<br>
+$SD$: Safety distance<br>
 
 #### The sinusoidal wave model is represented as:
-$$y(t) = A \sin(2\pi ft + \phi) + C$$
-where:
-$y(t)$ is the position of the vehicle at time $t$
-$A$ is the amplitude of the sinusoidal wave, related to the vehicle's weight and speed
-$f$ is the frequency of the sinusoidal wave, related to the vehicle's speed and safety distance
-$\phi$ is the phase shift of the sinusoidal wave, related to the vehicle's initial position and speed
-$C$ is a constant term representing the vehicle's initial position
+$$y(t) = A \sin(2\pi ft + \phi) + C$$ 
+where:<br>
+$y(t)$ is the position of the vehicle at time $t$ <br>
+$A$ is the amplitude of the sinusoidal wave, related to the vehicle's weight and speed<br>
+$f$ is the frequency of the sinusoidal wave, related to the vehicle's speed and safety distance<br>
+$\phi$ is the phase shift of the sinusoidal wave, related to the vehicle's initial position and speed<br>
+$C$ is a constant term representing the vehicle's initial position<br>
 
 
 #### Parameter Estimation
 
 The parameters of the sinusoidal wave model can be estimated using the following formulas:
 
-$A = \frac{WV^2}{LSD}$
-$f = \frac{V}{L+SD}$
-$\phi = \arctan\left(\frac{V}{x_0}\right)$
-$C = x_0$
-where $x_0$ is the vehicle's initial position.
+$A = \frac{WV^2}{LSD}$<br>
+$f = \frac{V}{L+SD}$<br>
+$\phi = \arctan\left(\frac{V}{x_0}\right)$<br>
+$C = x_0$<br>
+where $x_0$ is the vehicle's initial position.<br>
 
 #### Personalization
 
